@@ -15,6 +15,7 @@ namespace ConsoleApp1
 
             int a = 123;
             string b = "이";
+            string c = "이dsfjlskfj";
             Console.WriteLine(a);
             Console.WriteLine(b);
             Console.WriteLine("1");
