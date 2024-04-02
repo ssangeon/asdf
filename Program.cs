@@ -24,7 +24,7 @@ namespace ConsoleApp1
             A tv01 = new A();
             A tv02 = new A();
             tv01.a = 123;
-            tv02.a = 456;
+            tv02.a = 789;
             Console.WriteLine(tv01.a);
             Console.WriteLine(tv02.a);
 
